@@ -1,7 +1,7 @@
 # Wikipedia to pdf script
 # Author: Carlos Meza
-# Desctription:This script is able to pull all html and corressponding text and place it into defualtdic
-# Requirements: Need NotSans on your systems Font file
+# Desctription: This script is able to pull all html and corressponding text and place it into defualtdic
+# Requirements: Need NotoSans on your systems Font file
 
 from collections import defaultdict
 from bs4 import BeautifulSoup
